@@ -1,12 +1,12 @@
 # EXNO-6-DS-DATA VISUALIZATION USING SEABORN LIBRARY
 
-# Aim:
+## Aim:
   To Perform Data Visualization using seaborn python library for the given datas.
 
-# EXPLANATION:
+## EXPLANATION:
 Data visualization is the graphical representation of information and data. By using visual elements like charts, graphs, and maps, data visualization tools provide an accessible way to see and understand trends, outliers, and patterns in data.
 
-# Algorithm:
+## Algorithm:
 STEP 1:Include the necessary Library.
 
 STEP 2:Read the given Data.
@@ -17,7 +17,10 @@ STEP 4:Apply the various data visualization tools wherever necessary.
 
 STEP 5:Include Necessary parameters in each functions.
 
-# Coding and Output:
+### Developed by: Dharini PV
+### Register no: 212222240024
+
+## Coding and Output:
 
 ![image](https://github.com/DHARINIPV/EXNO-6-DS/assets/119400845/10860638-1809-46b9-93fc-23767517940b)
 
@@ -55,4 +58,4 @@ STEP 5:Include Necessary parameters in each functions.
 
 
 # Result:
- Include your result here
+Thus, the data visualization using seaborn python library for the give data is done.
